@@ -1,3 +1,3 @@
 # Mongo_Scrapper
 
-Scrap articles and be able to comment on them. 
+Scrapes the NY Times/World articles and be able to comment on them. 
